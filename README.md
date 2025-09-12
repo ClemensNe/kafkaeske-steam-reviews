@@ -7,7 +7,7 @@ Enthält: Korpus, Skripte, Beispiel-Ausgaben, Tabellen/Plots.
 - `steam_reviews_kafka.csv` – Rohdaten (UTF-8; Spalten: doc_id,source,language,date,text)
 - `analysis_kafka.py` – einfache Kollokationsanalyse
 - `analysis_kafka_games.py` – vollständige Pipeline (KWIC, Kollok., PMI, NPMI)
-- `` – generierte Ergebnisse (CSV/PNG)
+- `bar-,collocates,-kwic-...` – generierte Ergebnisse (CSV/PNG)
 
 ## Setup
 ```bash
